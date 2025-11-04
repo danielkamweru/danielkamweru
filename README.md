@@ -1,20 +1,85 @@
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kamwerudaniel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dankamweru) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kamweru-68670938b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shakiz82) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KamweruDan47536) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamwerudaniel5@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danielkamweru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=danielkamweru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danielkamweru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">👋 Hey, I'm Daniel Kamweru</h1>
+<h3 align="center">💻 Full-Stack Developer | Creative Problem Solver | Lifelong Learner</h3>
 
 ---
+
+## 💫 About Me
+
+🎯 I'm a **passionate software engineer** focused on building efficient, modern, and user-centered web applications.  
+💡 I enjoy creating **clean, responsive UIs** backed by strong logic and thoughtful architecture.  
+🌱 Currently diving deeper into **React**, **Node.js**, and **advanced CSS techniques** to sharpen my full-stack skills.  
+🤝 I’m always open to **collaborations**, especially on projects that challenge creativity and improve developer experience.  
+💬 Ask me about **UI/UX design**, **frontend performance**, or my journey as a **software engineering student**.  
+⚡ *I believe the best apps live where functionality meets design beauty.*
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Advanced Phase-2 Group Project](https://advancedphase-2-group-project-swart.vercel.app)
+> A full-stack collaborative project built with React, Node.js, and TailwindCSS. It showcases real-time features and clean modular design.
+
+### 🤖 [Phase-2 Bot Battlr](https://phase-2-bot-battlr-indol.vercel.app)
+> A React-based fun and interactive web app where bots battle, powered by reusable components and dynamic state management.
+
+### 🌐 [My Personal Website](https://danielkamweru.github.io/my-personal-website/)
+> My portfolio highlighting design principles, projects, and developer growth journey.
+
+---
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kamwerudaniel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dankamweru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kamweru-68670938b)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shakiz82)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KamweruDan47536)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamwerudaniel5@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=danielkamweru&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=danielkamweru&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+### 🏆 GitHub Achievements:
+![](https://github-profile-trophy.vercel.app/?username=danielkamweru&theme=tokyonight&no-bg=true&margin-w=10&row=1)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=danielkamweru&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+### ☕ Support My Work
+If you love what I do and want to support:
+<br>
+<a href="https://www.buymeacoffee.com/danielkamweru">
+  <img src="https://img.shields.io/badge/☕-Buy_me_a_coffee-ffdd00?style=for-the-badge" />
+</a>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=danielkamweru&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ *“Building beautiful, functional, and meaningful digital experiences.”*
 
-www.linkedin.com/in/daniel-kamweru-528a40380
