@@ -16,7 +16,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Advanced Phase-2 Group Project](https://advancedphase-2-group-project-swart.vercel.app)
+### 🧠 [Advanced Phase-2 Group Project](phase-2-group-project-swart.vercel.app)
 > A full-stack collaborative project built with React, Node.js, and TailwindCSS. It showcases real-time features and clean modular design.
 
 ### 🤖 [Phase-2 Bot Battlr](https://phase-2-bot-battlr-indol.vercel.app)
