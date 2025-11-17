@@ -22,9 +22,6 @@
 ### 🤖 [Phase-2 Bot Battlr](https://phase-2-bot-battlr-indol.vercel.app)
 > A React-based fun and interactive web app where bots battle, powered by reusable components and dynamic state management.
 
-### 🌐 [My Personal Website](https://danielkamweru.github.io/my-personal-website/)
-> My portfolio highlighting design principles, projects, and developer growth journey.
-
 ---
 
 ## 🌐 Socials:
