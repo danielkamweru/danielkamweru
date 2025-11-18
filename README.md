@@ -29,7 +29,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kamweru-68670938b)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@shakiz82)
 <a href="https://x.com/KamweruDan47536">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="22" alt="X" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" 
+       width="22" 
+       alt="X" 
+       style="filter: invert(100%);"
+  />
 </a>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamwerudaniel5@gmail.com)
 
