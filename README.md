@@ -31,6 +31,7 @@
 <a href="https://x.com/KamweruDan47536">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" 
        width="22" 
+       color="blue"
        alt="X" 
        style="filter: invert(100%);"
   />
