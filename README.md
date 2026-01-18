@@ -93,13 +93,22 @@
 
 ### 🏆 GitHub Achievements:
 <p align="left">
-  <img src="https://img.shields.io/github/stars/danielkamweru?style=flat-square&label=Global%20Stars&color=yellow&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/danielkamweru?style=flat-square&label=Yearly%20Commits&color=blue&logo=github" alt="Commits" />
-  <img src="https://img.shields.io/github/languages/count/danielkamweru?style=flat-square&label=Stacks%20Used&color=success&logo=github" alt="Languages" />
-  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square&logo=github" alt="Maintained" />
-  <img src="https://img.shields.io/github/search/danielkamweru/danielkamweru/goto?style=flat-square&label=Profile%20Health&color=9455ED&logo=github" alt="Health" />
+  <a href="https://github.com/danielkamweru?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Pull_Shark-gold?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  </a>
+  <a href="https://github.com/danielkamweru?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-Quick_Draw-8C52FF?style=for-the-badge&logo=github&logoColor=white" alt="Quick Draw" />
+  </a>
+  <a href="https://github.com/danielkamweru?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievement-YOLO-ED4C5C?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+  </a>
 </p>
----
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PR_Merge_Rate-98%25-00D1FF?style=flat-square&logo=git&logoColor=white" alt="PR Rate" />
+  <img src="https://img.shields.io/badge/Repo_Maintenance-Active-39FF14?style=flat-square&logo=github-actions&logoColor=white" alt="Maintenance" />
+  <img src="https://img.shields.io/badge/Code_Style-Standard_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Code Style" />
+</p>
 
 
 
