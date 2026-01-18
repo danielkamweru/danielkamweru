@@ -93,21 +93,27 @@
 
 ### 🏆 GitHub Achievements:
 <p align="left">
-  <a href="https://github.com/danielkamweru?tab=achievements">
+  <a href="https://github.com/danielkamweru?tab=achievements" target="_blank">
     <img src="https://img.shields.io/badge/Achievement-Pull_Shark-gold?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
   </a>
-  <a href="https://github.com/danielkamweru?tab=achievements">
+  <a href="https://github.com/danielkamweru?tab=achievements" target="_blank">
     <img src="https://img.shields.io/badge/Achievement-Quick_Draw-8C52FF?style=for-the-badge&logo=github&logoColor=white" alt="Quick Draw" />
   </a>
-  <a href="https://github.com/danielkamweru?tab=achievements">
+  <a href="https://github.com/danielkamweru?tab=achievements" target="_blank">
     <img src="https://img.shields.io/badge/Achievement-YOLO-ED4C5C?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
   </a>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PR_Merge_Rate-98%25-00D1FF?style=flat-square&logo=git&logoColor=white" alt="PR Rate" />
-  <img src="https://img.shields.io/badge/Repo_Maintenance-Active-39FF14?style=flat-square&logo=github-actions&logoColor=white" alt="Maintenance" />
-  <img src="https://img.shields.io/badge/Code_Style-Standard_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Code Style" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Adanielkamweru+is%3Amerged" target="_blank">
+    <img src="https://img.shields.io/badge/PR_Merge_Rate-98%25-00D1FF?style=flat-square&logo=git&logoColor=white" alt="PR Rate" />
+  </a>
+  <a href="https://github.com/danielkamweru?tab=repositories&q=&type=source&language=&sort=stargazers" target="_blank">
+    <img src="https://img.shields.io/badge/Repo_Maintenance-Active-39FF14?style=flat-square&logo=github-actions&logoColor=white" alt="Maintenance" />
+  </a>
+  <a href="https://standardjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Code_Style-Standard_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Code Style" />
+  </a>
 </p>
 
 
