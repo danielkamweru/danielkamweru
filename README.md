@@ -35,7 +35,7 @@
 
 ## 💻 Tech Stack:
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&width=900&lines=Below+are+clickable+links+for+the+tech+stacks+I+have+learnt...;Clickable+links+for+stacks+that+I+have+learnt;Thank+you+as+you+visit+them!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&width=900&lines=Below+are+clickable+links+for+the+tech+stacks+I+have+learnt...;Thank+you+as+you+visit+them!!!" alt="Typing SVG" />
 </p>
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
