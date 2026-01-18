@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Daniel Kamweru</h1>
+<h1 align="center"> Hey, I'm Daniel Kamweru</h1>
 <h3 align="center">💻 Full-Stack Developer | Creative Problem Solver | Lifelong Learner</h3>
 
 ---
@@ -34,6 +34,10 @@
 ---
 
 ## 💻 Tech Stack:
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&width=900&lines=Below+are+clickable+links+for+the+tech+stacks+I+have+learnt...;Clickable+links+for+stacks+that+I+have+learnt;Thank+you+as+you+visit+them!+🚀" alt="Typing SVG" />
+</p>
+
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -53,55 +57,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/getting-started/introduction/)
 [![Thunder Client](https://img.shields.io/badge/Thunder_Client-732FDC?style=for-the-badge&logo=thunder-client&logoColor=white)](https://www.thunderclient.com/docs)
-
-
-Below is your same expanded stack, but each badge now links to the official documentation or platform (best practice).
-
-You can paste this directly into your README 👇
-
-💻 Tech Stack
-🌐 Frontend
-
-
-
-
-
-
-
-
-
-
-
-
-⚙️ Backend & APIs
-
-
-
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-
-
-🛠️ Tools & Platforms
-
-
-
-
-
-
-
-
-☁️ Deployment & Hosting
-
-
-
 
 ## 🏅 GitHub Developer Grade
 
