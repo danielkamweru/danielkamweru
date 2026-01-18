@@ -43,9 +43,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- ## 🏅 GitHub Developer Grade: **B+ (Rising )**
+ ## 🏅 GitHub Developer Grade
 
-> _Grade improves automatically with contributions, consistency, stars, followers, and repositories._
+![Grade](https://img.shields.io/badge/Developer%20Grade-B%2B-4c8eda?style=for-the-badge&logo=github)
+
+> **_Grade improves automatically with contributions, consistency, stars, followers, and repositories._**
+
 
 --
 ## 📊 GitHub Stats
