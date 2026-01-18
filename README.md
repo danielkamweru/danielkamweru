@@ -43,7 +43,55 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- 
+ Perfect idea — turning them into clickable links makes your Tech Stack feel interactive and professional.
+
+Below is your same expanded stack, but each badge now links to the official documentation or platform (best practice).
+
+You can paste this directly into your README 👇
+
+💻 Tech Stack
+🌐 Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+⚙️ Backend & APIs
+
+
+
+
+
+
+
+
+🗄️ Databases
+
+
+
+
+
+
+🛠️ Tools & Platforms
+
+
+
+
+
+
+
+
+☁️ Deployment & Hosting
+
+
+
 
 ## 🏅 GitHub Developer Grade
 
