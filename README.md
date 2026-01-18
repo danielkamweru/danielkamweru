@@ -92,14 +92,13 @@
 ---
 
 ### 🏆 GitHub Achievements:
-![](https://github-profile-trophy.vercel.app/?username=danielkamweru&theme=tokyonight&no-bg=true&margin-w=10&row=1)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkamweru&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight)
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danielkamweru&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+
+
 
 ### ☕ Support My Work
 If you love what I do and want to support:
