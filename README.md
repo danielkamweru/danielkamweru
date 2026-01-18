@@ -92,8 +92,13 @@
 ---
 
 ### 🏆 GitHub Achievements:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkamweru&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/github/stars/danielkamweru?style=flat-square&label=Global%20Stars&color=yellow&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/danielkamweru?style=flat-square&label=Yearly%20Commits&color=blue&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/github/languages/count/danielkamweru?style=flat-square&label=Stacks%20Used&color=success&logo=github" alt="Languages" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=flat-square&logo=github" alt="Maintained" />
+  <img src="https://img.shields.io/github/search/danielkamweru/danielkamweru/goto?style=flat-square&label=Profile%20Health&color=9455ED&logo=github" alt="Health" />
+</p>
 ---
 
 
