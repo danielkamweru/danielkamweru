@@ -43,9 +43,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
- ## 🏅 GitHub Developer Grade
+ 
 
-![Developer Grade](https://github-readme-stats.vercel.app/api?username=danielkamweru&theme=tokyonight&hide_border=false&custom_title=Developer%20Grade%20—%20B%2B&show_icons=true)
+## 🏅 GitHub Developer Grade
+
+![Developer Grade](https://github-readme-stats.vercel.app/api?username=danielkamweru&theme=tokyonight&hide_border=false&custom_title=Developer%20Grade%20—%20B%2B&show_icons=true&hide_rank=true)
+
 
 > **_Grade improves automatically with contributions, consistency, stars, followers, and repositories._**
 
