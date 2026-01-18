@@ -44,9 +44,7 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats:
+--
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=danielkamweru&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
@@ -63,9 +61,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=danielkamweru&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Stars](https://img.shields.io/github/stars/danielkamweru?style=social)
-## 🟩 Contribution Activity
+
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielkamweru&theme=tokyo-night)
 
