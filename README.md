@@ -56,7 +56,7 @@
 [![Render](https://img.shields.io/badge/Render-%23430098.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/docs)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/getting-started/introduction/)
-[![Thunder Client](https://img.shields.io/badge/Thunder_Client-732FDC?style=for-the-badge&logo=thunder-client&logoColor=white)](https://www.thunderclient.com/docs)
+[![Thunder Client](https://img.shields.io/badge/Thunder_Client-732FDC?style=for-the-badge&logo=thunder-client&logoColor=white)](https://docs.thunderclient.com/getting-started)
 
 ## 🏅 GitHub Developer Grade
 
