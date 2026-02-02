@@ -60,7 +60,8 @@
 
 ## 🏅 GitHub Developer Grade
 
-![Developer Grade](https://github-readme-stats.vercel.app/api?username=danielkamweru&theme=tokyonight&hide_border=false&custom_title=Developer%20Grade%20—%20B%2B&show_icons=true&hide_rank=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF69B4&bg_color=0D1117)
+![B+ Developer Grade](https://img.shields.io/badge/Developer%20Grade-B%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
