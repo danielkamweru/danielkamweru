@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Daniel Kamweru</h1>
-<h3 align="center">💻 Full-Stack Developer | Creative Problem Solver | Lifelong Learner</h3>
+<h3 align="center"> Full-Stack Developer | Creative Problem Solver | Lifelong Learner</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 🎯 I'm a **passionate software engineer** focused on building efficient, modern, and user-centered web applications.  
 💡 I enjoy creating **clean, responsive UIs** backed by strong logic and thoughtful architecture.  
-🌱 Currently diving deeper into **React**, **Node.js**, and **advanced CSS techniques** to sharpen my full-stack skills.  
+ Currently diving deeper into **React**, **Node.js**, and **advanced CSS techniques** to sharpen my full-stack skills.  
 🤝 I’m always open to **collaborations**, especially on projects that challenge creativity and improve developer experience.  
 💬 Ask me about **UI/UX design**, **frontend performance**, or my journey as a **software engineering student**.  
 ⚡ *I believe the best apps live where functionality meets design beauty.*
