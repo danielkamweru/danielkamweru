@@ -105,6 +105,8 @@
 ![Repos](https://img.shields.io/github/repos/danielkamweru?style=for-the-badge)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkamweru&show_icons=true&theme=tokyonight&hide_border=false)
+![Contributions](https://img.shields.io/badge/Contributions-1197-blue?style=for-the-badge&logo=github)
 
 ### 🏆 GitHub Achievements:
 <p align="left">
