@@ -90,7 +90,19 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielkamweru&theme=tokyo-night)
 
+## 📊 GitHub Stats
 
+![Contributions](https://img.shields.io/badge/Contributions-1%2C197-blue?style=for-the-badge&logo=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkamweru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielkamweru&theme=tokyonight&hide_border=false&fire=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight&hide_border=false)
+
+![Followers](https://img.shields.io/github/followers/danielkamweru?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/danielkamweru?style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/danielkamweru?style=for-the-badge)
 
 ---
 
