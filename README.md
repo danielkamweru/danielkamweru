@@ -70,15 +70,6 @@
 
 
 
---
-## 📊 GitHub Stats
-
-![](https://githubusername=danielkamweru&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=danielkamweru&theme=tokyonight&hide_border=false&fire=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight&hide_border=false)
-![Followers](https://img.shields.io/github/followers/danielkamweru?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/danielkamweru?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-auto-blue?style=for-the-badge)
 
 
 
