@@ -62,24 +62,7 @@
 
 ![B+ Developer Grade](https://img.shields.io/badge/Developer%20Grade-B%2B-ffb700?style=for-the-badge&logo=github&logoColor=ffffff)
 
-
-
-
-
 > *Grade improves automatically with contributions, consistency, stars, followers, and repositories.*
-
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielkamweru&theme=tokyo-night)
 
 ## 📊 GitHub Stats
 
