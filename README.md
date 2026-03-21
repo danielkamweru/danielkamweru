@@ -7,7 +7,7 @@
 
 🎯 I'm a **passionate software engineer** focused on building efficient, modern, and user-centered web applications.  
 💡 I enjoy creating **clean, responsive UIs** backed by strong logic and thoughtful architecture.  
- Currently diving deeper into **React**, **Node.js**, and **advanced CSS techniques** to sharpen my full-stack skills.  
+Currently diving deeper into **React**, **Node.js**, and **advanced CSS techniques** to sharpen my full-stack skills.  
 🤝 I’m always open to **collaborations**, especially on projects that challenge creativity and improve developer experience.  
 💬 Ask me about **UI/UX design**, **frontend performance**, or my journey as a **software engineering student**.  
 ⚡ *I believe the best apps live where functionality meets design beauty.*
@@ -58,70 +58,62 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/getting-started/introduction/)
 [![Thunder Client](https://img.shields.io/badge/Thunder_Client-732FDC?style=for-the-badge&logo=thunder-client&logoColor=white)](https://docs.thunderclient.com/get-started)
 
+---
+
 ## 🏅 GitHub Developer Grade
 
-![B+ Developer Grade](https://img.shields.io/badge/Developer%20Grade-B%2B-ffb700?style=for-the-badge&logo=github&logoColor=ffffff)
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Grade-B%2B-ffb700?style=for-the-badge&logo=github&logoColor=ffffff" height="65"/>
+</p>
 
 > **_Grade improves automatically with contributions, consistency, stars, followers, and repositories._**
 
+---
 
-
---
 ## 📊 GitHub Stats
 
-![](https://githubusername=danielkamweru&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=danielkamweru&theme=tokyonight&hide_border=false&fire=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkamweru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=danielkamweru&theme=tokyonight&hide_border=false&fire=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight&hide_border=false)
+
 ![Followers](https://img.shields.io/github/followers/danielkamweru?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/danielkamweru?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-auto-blue?style=for-the-badge)
+![Repos](https://img.shields.io/github/repos/danielkamweru?style=for-the-badge)
 
-
-
-
-
-## 📊 GitHub Stats
-
-
+---
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=danielkamweru&theme=tokyo-night)
-
-
 
 ---
 
 ### 🏆 GitHub Achievements:
 <p align="left">
   <a href="https://github.com/danielkamweru?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Achievement-Pull_Shark-gold?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+    <img src="https://img.shields.io/badge/Achievement-Pull_Shark-gold?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/danielkamweru?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Achievement-Quick_Draw-8C52FF?style=for-the-badge&logo=github&logoColor=white" alt="Quick Draw" />
+    <img src="https://img.shields.io/badge/Achievement-Quick_Draw-8C52FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/danielkamweru?tab=achievements" target="_blank">
-    <img src="https://img.shields.io/badge/Achievement-YOLO-ED4C5C?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+    <img src="https://img.shields.io/badge/Achievement-YOLO-ED4C5C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Adanielkamweru+is%3Amerged" target="_blank">
-    <img src="https://img.shields.io/badge/PR_Merge_Rate-98%25-00D1FF?style=flat-square&logo=git&logoColor=white" alt="PR Rate" />
+    <img src="https://img.shields.io/badge/PR_Merge_Rate-98%25-00D1FF?style=flat-square&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/danielkamweru?tab=repositories&q=&type=source&language=&sort=stargazers" target="_blank">
-    <img src="https://img.shields.io/badge/Repo_Maintenance-Active-39FF14?style=flat-square&logo=github-actions&logoColor=white" alt="Maintenance" />
+  <a href="https://github.com/danielkamweru?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Repo_Maintenance-Active-39FF14?style=flat-square&logo=github-actions&logoColor=white" />
   </a>
   <a href="https://standardjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Code_Style-Standard_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Code Style" />
+    <img src="https://img.shields.io/badge/Code_Style-Standard_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   </a>
 </p>
 
-
-
-
+---
 
 ### ☕ Support My Work
 If you love what I do and want to support:
@@ -135,4 +127,3 @@ If you love what I do and want to support:
 [![](https://visitcount.itsvg.in/api?id=danielkamweru&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ *“Building beautiful, functional, and meaningful digital experiences.”*
-
