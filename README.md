@@ -117,3 +117,60 @@ If you love what I do and want to support:
 [![](https://visitcount.itsvg.in/api?id=danielkamweru&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ “Building beautiful, functional, and meaningful digital experiences.”
+###  Detailed Metrics
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2059%20mins-blue?style=flat)
+
+```txt
+Total Time: 54 hrs 12 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.36%20million%20lines%20of%20code-blue?style=flat)
+
+JavaScript   19 hrs 59 mins  ████████▓░░░░░░░░░░░░░░░░   35.18 %
+Python       12 hrs 56 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+Bash         5 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+HTML         3 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+TypeScript   3 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                461 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                557 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌃 Evening                539 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌙 Night                  82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Tuesday                  287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                345 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Thursday                 533 commits         ████████░░░░░░░░░░░░░░░░░   32.52 % 
+Friday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Saturday                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Sunday                   27 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+JavaScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+JSON                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+CSS                      54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+
+💻 Operating System: 
+Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               24 repos            ██████████████░░░░░░░░░░░   54.55 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
