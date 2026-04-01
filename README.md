@@ -66,9 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![Contributions](https://img.shields.io/badge/Contributions-1%2C197-blue?style=for-the-badge&logo=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkamweru&layout=compact&theme=tokyonight&hide_border=false)
 
 ![Followers](https://img.shields.io/github/followers/danielkamweru?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/danielkamweru?style=for-the-badge)
