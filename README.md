@@ -64,7 +64,7 @@
 
 > *Grade improves automatically with contributions, consistency, stars, followers, and repositories.*
 
-## 📊 GitHub Stats.
+## 📊 GitHub Stats
 
 
 
