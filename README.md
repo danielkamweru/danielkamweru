@@ -70,7 +70,7 @@
 
 ![Followers](https://img.shields.io/github/followers/danielkamweru?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/danielkamweru?style=for-the-badge)
-![Repos](https://img.shields.io/github/repos/danielkamweru?style=for-the-badge)
+
 
 
 
