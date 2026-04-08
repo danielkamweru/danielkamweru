@@ -47,6 +47,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
           git add README.md
           git diff --staged --quiet || git commit -m "Update README with WakaTime stats"
           git push
