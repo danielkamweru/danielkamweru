@@ -42,12 +42,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-          git add README.md
-          git diff --staged --quiet || git commit -m "Update README with WakaTime stats"
-          git push
