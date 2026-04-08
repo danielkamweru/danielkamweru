@@ -115,9 +115,10 @@ If you love what I do and want to support:
 [![](https://visitcount.itsvg.in/api?id=danielkamweru&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ⭐ “Building beautiful, functional, and meaningful digital experiences.”
-###  Detailed Metrics
-<!-- Last updated: 2025-04-08 -->
+##  Coding Stats
+
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2059%20mins-blue?style=flat)
 
 ```txt
