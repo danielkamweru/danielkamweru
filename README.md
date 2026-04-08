@@ -24,6 +24,27 @@
 
 ---
 
+## 🔄 CI/CD & Automation
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00D1FF&width=800&lines=Automated+README+updates+powered+by+GitHub+Actions;Node.js+24+compatible+workflows;Real-time+stats+and+metrics" alt="CI/CD Animation" />
+</p>
+
+This repository uses **GitHub Actions** for automated README updates with cutting-edge workflow automation:
+
+### ⚡ **Automation Features**
+- **🔄 Node.js 24 Compatible**: All GitHub Actions updated to latest versions
+- **📅 Daily Updates**: README stats and metrics updated automatically  
+- **⚡ Real-time Stats**: WakaTime coding statistics refreshed every 5 minutes
+
+### 📁 **Workflow Files**
+- **`.github/workflows/readme-ci.yml`** - Daily README timestamp updates
+- **`.github/workflows/wakatime.yml`** - WakaTime coding statistics and metrics
+
+> **🔧 Technical Note**: Updated from `actions/checkout@v3` to `actions/checkout@v4` to ensure Node.js 24 compatibility and avoid deprecation warnings.
+
+---
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kamwerudaniel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kamweru-68670938b/)
