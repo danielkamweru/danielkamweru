@@ -139,6 +139,17 @@ If you love what I do and want to support:
 ##  Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 3 hrs 3 mins
+
+YAML         1 hr 18 mins    ██████████▒░░░░░░░░░░░░░░   41.75 %
+HTML         42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+JavaScript   31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Markdown     25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+```
+
 <!--END_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2059%20mins-blue?style=flat)
 
