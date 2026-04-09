@@ -34,12 +34,12 @@ This repository uses **GitHub Actions** for automated README updates with cuttin
 
 ### ⚡ **Automation Features**
 - **🔄 Node.js 24 Compatible**: All GitHub Actions updated to latest versions
-- **📅 Daily Updates**: README stats and metrics updated automatically  
+- **⏰ Hourly Updates**: README stats and metrics updated automatically every hour
 - **⚡ Real-time Stats**: WakaTime coding statistics refreshed every 5 minutes
 
 ### 📁 **Workflow Files**
-- **`.github/workflows/readme-ci.yml`** - Daily README timestamp updates
-- **`.github/workflows/wakatime.yml`** - WakaTime coding statistics and metrics
+- **`.github/workflows/readme-ci.yml`** - Hourly README timestamp updates
+- **`.github/workflows/wakatime.yml`** - Hourly WakaTime coding statistics and metrics
 
 > **🔧 Technical Note**: Updated from `actions/checkout@v3` to `actions/checkout@v4` to ensure Node.js 24 compatibility and avoid deprecation warnings.
 
