@@ -1,3 +1,5 @@
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-04-10%2017:55%20UTC-brightgreen)
+
 
 
 <h1 align="center"> Hey, I'm Daniel Kamweru</h1>
