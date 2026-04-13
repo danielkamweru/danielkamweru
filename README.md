@@ -145,13 +145,12 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 5 mins
+Total Time: 1 hr 54 mins
 
-YAML         1 hr 18 mins    ██████████▒░░░░░░░░░░░░░░   41.42 %
-HTML         44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-JavaScript   31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Markdown     25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+YAML       1 hr 18 mins    █████████████████░░░░░░░░   67.94 %
+Markdown   25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+HTML       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+CSS        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
