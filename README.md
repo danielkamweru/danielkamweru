@@ -145,13 +145,13 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 35 mins
+Total Time: 1 hr 30 mins
 
-Markdown     24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-TypeScript   22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
-Bash         16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Python       14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Markdown     24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+TypeScript   22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+Bash         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Python       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
 ```
 
 <!--END_SECTION:waka-->
