@@ -145,11 +145,9 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 mins
+Total Time: 0 secs
 
-Python       19 mins         ███████████████░░░░░░░░░░   59.92 %
-JavaScript   13 mins         ██████████░░░░░░░░░░░░░░░   40.08 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
