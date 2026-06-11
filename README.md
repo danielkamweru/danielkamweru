@@ -145,10 +145,9 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 mins
+Total Time: 15 mins
 
-HTML     15 mins         █████████████████████░░░░   84.01 %
-Python   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+HTML   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
