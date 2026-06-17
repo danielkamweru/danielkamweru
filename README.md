@@ -145,9 +145,10 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 15 mins
 
-No activity tracked
+YAML   9 mins          ████████████████░░░░░░░░░   64.59 %
+JSON   5 mins          █████████░░░░░░░░░░░░░░░░   35.41 %
 ```
 
 <!--END_SECTION:waka-->
