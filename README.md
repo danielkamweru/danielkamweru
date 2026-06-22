@@ -145,13 +145,13 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 48 mins
+Total Time: 2 hrs 5 mins
 
-TypeScript    1 hr 26 mins    ███████████████████▓░░░░░   78.35 %
-YAML          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JSON          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-CSS           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript    1 hr 44 mins    ████████████████████▒░░░░   81.26 %
+YAML          9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+JSON          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+CSS           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
