@@ -145,11 +145,9 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 0 secs
 
-TypeScript   5 mins          █████████████████▓░░░░░░░   70.29 %
-Other        2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
