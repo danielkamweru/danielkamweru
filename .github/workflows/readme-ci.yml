@@ -19,8 +19,8 @@ jobs:
 
       - name: Update Last Updated badge
         run: |
-          DATE=$(date '+%Y-%m-%d %H:%M UTC')
-          BADGE="![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE// /%20}-brightgreen)"
+          DATE=$(date -u +"%Y%m%d_%H%M_%Z")
+          BADGE="![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)"
 
           if grep -q "Last Updated" README.md; then
             sed -i "s|!\[Last Updated\].*|$BADGE|" README.md
