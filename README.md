@@ -139,6 +139,13 @@ If you love what I do and want to support:
 ##  Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2059%20mins-blue?style=flat)
 
