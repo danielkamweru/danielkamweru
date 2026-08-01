@@ -1,3 +1,5 @@
+![Last Updated](https://img.shields.io/badge/Last%20Updated-20260801_0907_UTC-brightgreen)
+
 <h1 align="center"> Hey, I'm Daniel Kamweru</h1>
 <h3 align="center"> Full-Stack Developer | Creative Problem Solver | Lifelong Learner</h3>
 
