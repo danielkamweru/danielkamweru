@@ -16,13 +16,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
 ### 🧠 [My portfolio](https://danielkamweru.github.io/my-personal-website/)
 > A modern, responsive personal portfolio website showcasing my skills, projects, and growth as a developer. Built with a focus on clean design and user experience, it highlights my ability to create visually appealing interfaces while maintaining functionality and performance. The site serves as a central hub for my work, demonstrating my journey, technical expertise, and passion for building impactful digital solutions.
 
-### 🤖 [Phase-2 Bot Battlr](https://phase-2-bot-battlr-indol.vercel.app)
-> A React-based fun and interactive web app where bots battle, powered by reusable components and dynamic state management.
 
 ---
 
