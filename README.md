@@ -139,13 +139,13 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 37 mins
+Total Time: 18 hrs 57 mins
 
-Java              4 hrs 26 mins   ██████████████▒░░░░░░░░░░   57.21 %
-Markdown          1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Bash              50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-XML               23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Java Properties   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Java              14 hrs 14 mins  ██████████████████▒░░░░░░   73.60 %
+Java Properties   1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Markdown          1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Bash              36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
