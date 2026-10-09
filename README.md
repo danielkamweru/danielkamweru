@@ -139,13 +139,9 @@ If you love what I do and want to support:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 22 mins
+Total Time: 0 secs
 
-Java              2 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.74 %
-Markdown          1 hr 3 mins     ██████░░░░░░░░░░░░░░░░░░░   24.36 %
-Bash              31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-SQL               12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-JavaScript        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
