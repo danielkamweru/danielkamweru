@@ -141,7 +141,7 @@ If you love what I do and want to support:
 ```txt
 Total Time: 0 secs
 
-Other   4 mins          █████████████████████████   100.00 %
+Other   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
