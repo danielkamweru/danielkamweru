@@ -141,7 +141,7 @@ If you love what I do and want to support:
 ```txt
 Total Time: 0 secs
 
-Other   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
