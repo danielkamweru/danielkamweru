@@ -141,9 +141,9 @@ If you love what I do and want to support:
 ```txt
 Total Time: 19 mins
 
-Other   3 hrs 24 mins   ██████████████████████▓░░   91.20 %
-Bash    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-YAML    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Other   2 hrs 21 mins   ██████████████████████░░░   87.73 %
+Bash    12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+YAML    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
